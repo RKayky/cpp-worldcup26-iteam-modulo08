@@ -163,7 +163,7 @@ bolao.cpp
 
 ## Autor
 
-Desenvolvido por **Kayky** durante as aulas do Módulo 08 do ITEAM.
+Desenvolvido por **Jessica, Kelvin e Ryan** durante as aulas do Módulo 08 do ITEAM.
 
 ---
 
